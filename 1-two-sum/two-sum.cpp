@@ -12,8 +12,6 @@ public:
                 }
             }
         }
-        return {}; // If no solution found
+        return {}; 
     }
 };
-// Time: O(n^2)
-// Space: O(1)
